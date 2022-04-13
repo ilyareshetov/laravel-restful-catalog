@@ -31,3 +31,6 @@ make build
 
 Сайт доступен по адресу [http://localhost](http://localhost)
 
+## Тестовые эндпоинты
+Для загрузки коллекции эндпоинтов в Postman используйте файл `Laravel test application.postman_collection.json` в корне проекта.
+
